@@ -12,4 +12,4 @@ feign:
   hystrix:
     enabled: true
   httpclient:
-    connection-timeout: 100000
+    connection-timeout: 200000
